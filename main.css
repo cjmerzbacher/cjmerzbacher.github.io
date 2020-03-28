@@ -42,6 +42,37 @@ h2 {
   margin-top: 50px;
 }
 
+#readmore h3 {
+  font: 18px "Avenir", sans-serif;
+  color:  #2B7A78;
+  text-align: center;
+  letter-spacing: 4px;
+  margin-bottom: 0px;
+  margin-top: 30px;
+}
+
+#readmore a {
+  color:  #2B7A78;
+}
+
+#readmore {
+  text-align: center;
+}
+
+#readmore a:hover {
+  color: #2B7A78;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+#readmore img {
+  max-width: 30px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 0px;
+}
+
 .page-title h2 {
   margin-bottom: 30px;
   margin-top: 0;
@@ -72,6 +103,12 @@ h2 {
 
 .socials {
   text-align: center;
+}
+
+.socials a:hover {
+  color: #000000;
+  text-decoration: none;
+  border-bottom: none;
 }
 
 .socials img {
@@ -209,6 +246,10 @@ h2 {
   text-align: left;
 }
 
+#blank {
+  color: #FFFFFF;
+}
+
 .skills .title {
   font: 18px "Avenir", sans-serif;
   text-align: center;
@@ -217,7 +258,7 @@ h2 {
 
 .skills h2 {
   margin-bottom: 0px;
-  margin-top: 30px;
+  border-top: 70px;
 }
 
 .skills .skill {

@@ -1,50 +1,81 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
 body {
-  font: normal 15px/21px 'PT Serif', serif;
+  font: normal 16px 'PT Serif', serif;
   color: #000000;
+  margin: 0;
   padding: 0 0 36px;
+  line-height: 1.2em;
   background-color: #ffffff;
   border-top: 10px solid #ffffff;
 }
 
-a {
-  text-decoration: none;
-  color: #000000;
-}
-
-a:hover {
-  border-bottom: 1px dotted #000;
-}
-
-#header_image:hover {
-  border: none;
-}
-
-#wrapper {
-  width: 940px;
-  margin: 0 auto;
-}
-
-#permalink,
-#page {
-  width: 940px;
-  margin: 0 auto;
-}
-
-#header {
-  padding: 48px 0px;
+.page-title {
   text-align: center;
 }
 
-
-#title {
-  font: bold 50px "Montserrat", sans-serif;
-  color: #000000;
-  margin-top: 1em;
+.page-title h1 {
+  font: 34px "Avenir", sans-serif;
+  margin-bottom: 0;
+  margin-top: 100px;
 }
 
-#description {
-  width: 368px;
-  margin: 16px auto 0px;
+h2 {
+  font: 18px "Avenir", sans-serif;
+  color:  #2B7A78;
+  text-align: center;
+  letter-spacing: 4px;
+  margin-top: 50px;
+}
+
+.page-title h2 {
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
+.container .small {
+  margin: auto;
+  max-width: 800px;
+  box-sizing: border-box
+}
+
+a:hover{
+  border-bottom: 1px dashed #000000;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+.credit {
+  text-align: center;
+  padding: 36px 0px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+  box-sizing: border-box
 }
 
 #posts {
@@ -213,22 +244,11 @@ h4 {
   line-height: 1.33;
 }
 
-#nav,
-#footer,
-#credit {
-  text-align: center;
-  padding: 36px 0px;
+ol, ul {
+	list-style: none;
 }
 
-#nav,
-#credit {
-  font-family: "PT Serif", serif;
-}
-
-#infscr-loading {
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: none;
-  visibility: hidden;
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
 }

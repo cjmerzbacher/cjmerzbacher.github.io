@@ -1,0 +1,72 @@
+
+            <p class='time'>April 2017 to May 2019</p>
+            <p class='title'>Undergraduate Researcher</p>
+            <p class='org'>Kane/Wong Lab at Brown University</p>
+
+<br>
+<br>
+<br>
+
+<p class='time'>May 2018 to August 2018</p>
+<p class='title'>Scientific Communications Intern</p>
+<p class='org'>Center for Biomedical Engineering (Brown)</p>
+<br>
+
+<p class='time'>May 2017 to August 2017</p>
+<p class='title'>Amgen Scholar</p>
+<p class='org'>Raman Lab at Washington University</p>
+<br>
+
+<p class='time'>May 2016 to August 2016</p>
+<p class='title'>Summer Research Student</p>
+<p class='org'>Hinton Lab, NIH, NIDDK</p>
+<br>
+
+<p class='time'>January 2016 to December 2016</p>
+<p class='title'>Undergraduate Researcher</p>
+<p class='org'>Lapierre Lab, Brown University</p>
+<br>
+
+<p class='time'>June 2015 to August 2015</p>
+<p class='title'>Software Quality Assurance Intern</p>
+<p class='org'>Smiths Detection</p>
+
+
+<p> Computational Biology, Reactor Kinetics,
+    Statistics, Differential Equations, Algorithms, Biochemistry</p>
+  <p>Teaching Assistant: Instrumentation Design</p>
+  <p>Meiklejohn Peer Advisor and WiSE Mentor</p>
+  <p class='award'>Sigma Xi Honors Research Society</p>
+  <br>
+
+  <p>Profiled fibroblast phenotypes with image analysis</p>
+  <p>Developed and optimized a 3D microtissue model for
+    high-throughput imaging</p>
+  <p class='award'>Undergraduate Research Award (Spring 2018)</p>
+  <p class='award'>Voss Fellowship (Summer 2018)</p>
+  <br>
+
+  <p>Wrote articles and conducted interviews with alumni, faculty,
+    and students for engineering website</p>
+  <br>
+
+  <p>Built an apparatus to track fly walking behavior in
+    response to aversive odors using computer vision</p>
+  <br>
+  <br>
+
+  <p>Performed a screen of the <i>B. pertussis</i> genome for small RNAs
+    related to virulence</p>
+  <br>
+  <br>
+
+  <p>Performed a screen for aging-related genes in <i>C. elegans</i></p>
+  <br>
+  <br>
+
+  <p>Improved software quality and user experience by writing GUIs,
+    tooltips, and tests in C++ and python</p>
+
+    <p class='title'><a href="writing.html">Scientific Writing</a></p>
+    <p class='description'>Interviews with Brown faculty, alumni,
+      and current undergraduate/graduate students</p>

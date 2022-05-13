@@ -125,7 +125,7 @@ h2 {
   display: inline-block;
   padding-right: 30px;
   box-sizing: border-box;
-  text-align: right;
+  text-align: left;
 }
 
 .resume .right-resume {
@@ -140,6 +140,17 @@ h2 {
 .resume .time {
   color: #808080;
 }
+
+.resume .coursework {
+  color: #2B7A78;
+}
+
+.resume .resume-description {
+  font: 16px 'PT Serif', serif;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
 
 .resume .title {
   font: bold 16px 'PT Serif', serif;
@@ -256,9 +267,10 @@ h2 {
   letter-spacing: 4px;
 }
 
+
 .skills h2 {
   margin-bottom: 0px;
-  border-top: 70px;
+  border-top: 20px;
 }
 
 .skills .skill {
@@ -276,6 +288,8 @@ h2 {
 .skills .left-right-skills .skill{
   padding-left: 40px;
 }
+
+
 
 .left-column a {
   text-decoration: none;

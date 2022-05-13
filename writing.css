@@ -1,0 +1,91 @@
+body {
+  font: normal 16px 'PT Serif', serif;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  line-height: 1.2em;
+}
+
+.page-title {
+  text-align: center;
+}
+
+.page-title h1 {
+  font: 34px "Avenir", sans-serif;
+  margin-bottom: 0;
+  margin-top: 100px;
+}
+
+a:hover{
+  border-bottom: 1px dashed #000000;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+h2 {
+  font: 18px "Avenir", sans-serif;
+  color:  #2B7A78;
+  text-align: center;
+  letter-spacing: 4px;
+  margin-top: 50px;
+}
+
+.page-title h2 {
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
+.container .small {
+  margin: auto;
+  max-width: 800px;
+  box-sizing: border-box
+}
+
+.scientific-writing h2 {
+  margin-bottom: 30px;
+}
+
+
+.scientific-writing .title {
+  font: 18px "Avenir", sans-serif;
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+.scientific-writing .article{
+  font: regular 16px 'PT Serif', serif;
+  color: #808080;
+  margin-top:0;
+  margin-bottom: 10px;
+}
+
+.scientific-writing  {
+  margin-top:0;
+
+}
+
+.scientific-writing  .left-column {
+  vertical-align: top;
+  width: 49%;
+  display: inline-block;
+  padding-right: 30px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.scientific-writing  .right-column {
+  vertical-align: top;
+  width: 50%;
+  display: inline-block;
+  padding-left: 30px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.credit {
+  text-align: center;
+  padding: 36px 0px;
+}
